@@ -5,7 +5,7 @@
 - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 ## Acesso
- [Clique aqui para acessar! :)](https://madusales.github.io/Fade-Photos-Page/)
+ [Clique aqui para acessar! :)](https://madusales.github.io/Transition-Photos-Page/)
 
 ## Tecnologias
 
